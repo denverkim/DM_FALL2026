@@ -5,7 +5,7 @@ Fall 2026
 | Week | Dates | Topics | Chapters | Assignments |
 |---:|---|---|---|---|
 | 1 | 9/4 | 과목 소개 및 데이터 마이닝 개요 | Chapter 1 | Post your introduction |
-| 2 | 9/11 | 데이터의 이해 | Chapter 2 | Lab 1 |
+| 2 | 9/11 | 데이터의 이해 | Chapter 2 | [Lab 1](https://github.com/denverkim/DM_FALL2026/blob/main/DM26_LAB1.ipynb) |
 | 3 | 9/18 | 데이터 전처리 | Chapter 3 | Lab 2 |
 | 4 | 9/25 | 탐색적 데이터 분석 (EDA) | Chapter 2 | Lab 3 |
 | 5 | 10/2 | 지도학습 I: 회귀 분석 | Chapter 4 | Lab 4 |
