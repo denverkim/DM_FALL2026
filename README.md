@@ -1,6 +1,6 @@
 # 데이터 마이닝 특론
 
-## Fall 2026  
+Fall 2026  
 
 | Week | Dates | Topics | Chapters | Assignments |
 |---:|---|---|---|---|
