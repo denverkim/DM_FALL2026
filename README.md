@@ -1,4 +1,5 @@
-데이터 마이닝 특론 2026년 가을학기
+# 데이터 마이닝 특론
+Fall 2026
 
 | Week | Dates | Topics | Chapters | Assignments |
 |---:|---|---|---|---|
