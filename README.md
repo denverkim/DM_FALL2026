@@ -6,7 +6,7 @@ Fall 2026
 | 1 | 9/4 | [과목 소개 및 데이터 마이닝 개요](https://github.com/denverkim/DM_FALL2026/blob/main/WEEK1%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%88%EC%9D%B4%EB%8B%9D%20%EA%B0%9C%EC%9A%94.pdf) | Chapter 1 | Post your introduction |
 | 2 | 9/11 | [데이터의 이해](https://github.com/denverkim/DM_FALL2026/blob/main/WEEK2%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EC%9D%B4%ED%95%B4.pdf) | Chapter 2 | [Lab 1](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB1.ipynb) |
 | 3 | 9/18 | [데이터 전처리](https://github.com/denverkim/DM_FALL2026/blob/main/WEEK3%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC.pdf) | Chapter 3 | [Lab 2](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB2.ipynb) |
-| 4 | 9/25 | 탐색적 데이터 분석 (EDA) | Chapter 2 | [Lab 2](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB2.ipynb) |
+| 4 | 9/25 | [탐색적 데이터 분석 (EDA)](https://github.com/denverkim/DM_FALL2026/blob/main/WEEK4%20EDA.pdf) | Chapter 2 | [Lab 2](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB2.ipynb) |
 | 5 | 10/2 | 지도학습 I: 회귀 분석 | Chapter 4 | [Lab 3](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB3.ipynb) |
 | 6 | 10/9 | 지도학습 II: 분류 분석 | Chapter 4 | [Lab 4](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB4.ipynb) |
 | 7 | 10/16 | 모델 평가 및 하이퍼 파라미터 튜닝 | Chapter 5 | [Lab 5](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB1.ipynb) |
