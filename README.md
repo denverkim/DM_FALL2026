@@ -8,7 +8,7 @@ Fall 2026
 | 3 | 9/18 | 데이터 전처리 | Chapter 3 | [Lab 2](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB2.ipynb) |
 | 4 | 9/25 | 탐색적 데이터 분석 (EDA) | Chapter 2 | [Lab 3](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB3.ipynb) |
 | 5 | 10/2 | 지도학습 I: 회귀 분석 | Chapter 4 | [Lab 4](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB4.ipynb) |
-| 6 | 10/9 | 지도학습 II: 분류 분석 | Chapter 4 | [Lab 5]((https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB1.ipynb) |
+| 6 | 10/9 | 지도학습 II: 분류 분석 | Chapter 4 | [Lab 5](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB1.ipynb) |
 | 7 | 10/16 | 모델 평가 및 하이퍼 파라미터 튜닝 | Chapter 5 | Lab 6 |
 | 8 | 10/23 | **Midterm 중간고사** | | |
 | 9 | 10/30 | 비지도학습: 군집화, 차원축소 (PCA) | Chapter 6 | Lab 7 |
