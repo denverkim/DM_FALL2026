@@ -14,7 +14,7 @@ Fall 2026
 | 9 | 10/30 | 비지도학습: 군집화, 차원축소 (PCA) | Chapter 6 | [Lab 6](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB6.ipynb) |
 | 10 | 11/6 | 비지도학습: 연관규칙 분석 | Chapter 6 | [Lab 7](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB8.ipynb) <br>Project Stage 0 |
 | 11 | 11/13 | 신경망 개요와 딥러닝 모델 | Chapter 7 | [Lab 8](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB6.ipynb)  |
-| 12 | 11/20 | 전이학습과 파인 튜닝 | Chapter 8 | Lab 9<br>Project Stage 1 |
+| 12 | 11/20 | 전이학습과 파인 튜닝 | Chapter 8 | [Lab 9](https://github.com/denverkim/DM_FALL2026/blob/main/DM_LAB9.ipynb) <br>Project Stage 1 |
 | 13 | 11/27 | 생성형 AI와 대규모 언어모델 (LLM) | Chapter 9 | |
 | 14 | 12/4 | **Final Exam 기말고사** | | |
 | 15 | 12/11 | **Project Presentation 프로젝트 발표** | | Project Stage 2 & 3 |
